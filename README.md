@@ -1,3 +1,4 @@
+# Cars-and-Dealership-project
 Created by: Nikhilesh Patil
 🚗 Automotive Sales & Dealership Analysis – Power BI Dashboard
 This project presents a detailed analysis of automotive sales data using Power BI. It leverages datasets including sales performance (Automotive_sales.csv), dealership information (Dealership_Info.csv), and is built into an interactive Power BI report (cars02.pbix). The goal is to provide actionable insights into dealership performance, sales trends, and regional effectiveness.
@@ -22,4 +23,3 @@ To explore the dashboard:
 1.	Download the .pbix file
 2.	Open in Power BI Desktop
 3.	Refresh data sources if needed and explore the visuals
-# Cars-and-Dealership-project
