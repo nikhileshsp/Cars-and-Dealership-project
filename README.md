@@ -5,7 +5,7 @@ This project presents a detailed analysis of automotive sales data using Power B
 📊 Key Features
 •	Sales Trend Analysis: Monthly and yearly breakdown of units sold and revenue generated.
 •	Top Performing Dealerships: Identify high-performing dealerships based on volume and profitability.
-•	Geographical Insights: Regional mapping of sales performance across dealerships.
+•	Geographical Insights: Regional mapping of sales performance across dealerships. 
 •	Product Mix & Performance: Analysis of top-selling car models, types, and their contribution to total sales. 
 •	Dynamic Filters: Interactive slicers for year, region, car type, and more to personalize insights.
 •	KPI Dashboards: Key metrics like total units sold, revenue, profit margin, and average sale price.
